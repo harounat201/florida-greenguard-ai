@@ -1,4 +1,4 @@
-# florida-greenguard-ai
+# florida-greenguard-ai [Hackathon Winner: Congressional App Challenge]
 
 Streamline the identification process of invasive and non-native species in the Florida area.
 
